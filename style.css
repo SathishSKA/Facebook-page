@@ -1,0 +1,64 @@
+
+body {
+  background-color: #2d2e2d;
+}
+
+.navbar {
+  height: 70px;
+background-color:#0a0a0a;
+  
+}
+
+.flex{
+  width: 50%;
+  height: 50%;
+}
+
+.card{
+  height: 50%;
+  width: 50%;
+  color:white;
+}
+
+.reviews{
+  margin-top: 10px;
+  margin-right: 500px;
+
+}
+
+.official{
+color: white;
+align-items:center;
+margin-left: 10px;
+}
+
+.text-white{
+  display: inline;
+}
+
+.line{
+  color: white;
+}
+
+ .logo_image2{
+  margin-left: 190px;
+    margin-bottom: 10px;
+    margin-top: -10px;
+    object-fit:scale-down;
+    padding: 0;
+} 
+
+hr{
+  margin:0px 200px;
+}
+
+.nav{
+  color: white;
+  margin-top: 8px;
+}
+
+.container{
+  color: white;
+  margin-top:10px;
+}
+
